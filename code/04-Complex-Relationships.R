@@ -1,3 +1,5 @@
+# This file caught my eye because complex adaptive systems are commonly associated with chaotic systems.
+
 ## 04-Complex-Relationships
 library(ggplot2)
 library(dplyr)
